@@ -7,7 +7,7 @@ public class HelloWorld {
 
         c = b / a;
 
-        System.out.println("Hello, Dhaarani!");
+        System.out.println("Hello, world!");
         System.out.println(c);
     }
 }
